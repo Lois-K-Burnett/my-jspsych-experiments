@@ -1,0 +1,34 @@
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","plugin_version","time_elapsed","rt","stimulus","response","task","correct_response","correct"
+"true","false","[]","[]","[]","preload","0","2.1.0","1","","","","","",""
+"","","","","","html-keyboard-response","1","2.1.0","3529","3526","Welcome to the Experiment. Press any key to begin.","k","","",""
+"","","","","","html-keyboard-response","2","2.1.0","4892","1363","
+            <p> In this experiment, a circle will appear in the center of the screen. </p> <p> If the circle is <strong>blue</strong>, press the F button as fast as you can. </p> <p> If the circle is <strong>orange</strong>, press the J button as fast as you can. </p>
+            <div style='width: 700px;'>
+            <div style='float: left;'><img src='img/blue.png'></img>
+            <p class='small'><strong>Press the F button</strong></p></div>
+            <div style='float: right;'><img src='img/orange.png'></img>
+            <p class='small'><strong>Press the J button</strong></p></div>
+            </div>
+            <p>Press any key to begin.</p>
+            ","k","","",""
+"","","","","","html-keyboard-response","3","2.1.0","8898","null","<div style=""font-size:60px;"">+</div>","null","fixation","",""
+"","","","","","image-button-response","4","2.2.0","9863","960","img/orange.png","1","response","1",""
+"","","","","","html-keyboard-response","5","2.1.0","10616","null","<div style=""font-size:60px;"">+</div>","null","fixation","",""
+"","","","","","image-button-response","6","2.2.0","11429","811","img/blue.png","0","response","0",""
+"","","","","","html-keyboard-response","7","2.1.0","12686","null","<div style=""font-size:60px;"">+</div>","null","fixation","",""
+"","","","","","image-button-response","8","2.2.0","13378","690","img/orange.png","1","response","1",""
+"","","","","","html-keyboard-response","9","2.1.0","15544","null","<div style=""font-size:60px;"">+</div>","null","fixation","",""
+"","","","","","image-button-response","10","2.2.0","16130","582","img/blue.png","0","response","0",""
+"","","","","","html-keyboard-response","11","2.1.0","17883","null","<div style=""font-size:60px;"">+</div>","null","fixation","",""
+"","","","","","image-button-response","12","2.2.0","18496","611","img/orange.png","1","response","1",""
+"","","","","","html-keyboard-response","13","2.1.0","20022","null","<div style=""font-size:60px;"">+</div>","null","fixation","",""
+"","","","","","image-button-response","14","2.2.0","20629","605","img/blue.png","0","response","0",""
+"","","","","","html-keyboard-response","15","2.1.0","21884","null","<div style=""font-size:60px;"">+</div>","null","fixation","",""
+"","","","","","image-button-response","16","2.2.0","22596","710","img/blue.png","0","response","0",""
+"","","","","","html-keyboard-response","17","2.1.0","22847","null","<div style=""font-size:60px;"">+</div>","null","fixation","",""
+"","","","","","image-button-response","18","2.2.0","23863","1014","img/orange.png","1","response","1",""
+"","","","","","html-keyboard-response","19","2.1.0","25368","null","<div style=""font-size:60px;"">+</div>","null","fixation","",""
+"","","","","","image-button-response","20","2.2.0","25929","559","img/blue.png","0","response","0",""
+"","","","","","html-keyboard-response","21","2.1.0","27731","null","<div style=""font-size:60px;"">+</div>","null","fixation","",""
+"","","","","","image-button-response","22","2.2.0","28379","646","img/orange.png","1","response","1",""
+"","","","","","html-keyboard-response","23","2.1.0","42269","13889","<p>You responded correctly on 0% of the trials. </p><p>Your average response time was NaNms.</p><p>Press any key to complete the experiment. Thank you!</p>"," ","","",""

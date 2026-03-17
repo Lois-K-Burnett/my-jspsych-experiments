@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hello World Test</title>
+        <!--Load the jsPsych library-->
+        <script src="jspsych/jspsych.js"></script>
+        <!-- Load html keyboard response plugin -->
+         <script src="jspsych/plugin-html-keyboard-response.js"></script>
+        <!-- Load the jsPsych style sheet -->
+        <link href="jspsych/jspsych.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body></body>
+    <script>
+        // Initialize jsPsych 
+        const jsPsych = initJsPsych();
+
+        // Add a trial that uses html keyboard response plugin
+        const hello_trial = {
+            type: jsPsychHtmlKeyboardResponse, 
+            stimulus: 'Hello World!'
+        }
+
+        //Run the experiment: give the run function an array with the list of trials to run 
+        jsPsych.run([hello_trial]); 
+    </script>
+</html>
